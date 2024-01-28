@@ -1,7 +1,7 @@
 Overview
     
 This project is a Single Page Application (SPA) designed for efficient workflow, utilizing the ViteJS build tool. It constitutes a dynamic MERN (MongoDB, Express.js, React, Node.js) stack application with a robust user authentication system.
-Features
+Features:
     • Efficient SPA Workflow: Designed and implemented an efficient Single Page Application (SPA) workflow using the ViteJS build tool.
     • User Authentication: Created a secure user authentication system using JSON Web Tokens (JWT) and HTTP-only cookies. This system is seamlessly integrated with the backend, powered by Express, MongoDB, and Mongoose.
     • React-based Frontend:
