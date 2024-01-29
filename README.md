@@ -1,6 +1,6 @@
 # Authentication App
 
-Overview
+# Overview
     
 This project is a Single Page Application (SPA) designed for efficient workflow, utilizing the ViteJS build tool. It constitutes a dynamic MERN (MongoDB, Express.js, React, Node.js) stack application with a robust user authentication system.
 
@@ -12,7 +12,7 @@ This project is a Single Page Application (SPA) designed for efficient workflow,
 
 4. State Management with Redux: Employed Redux for state management, ensuring an optimal user experience and responsive application behavior.
 
-Tech Stack
+# Tech Stack
     
     • Frontend:
         
